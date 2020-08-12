@@ -8,3 +8,9 @@ A disfrutarlo!!
 VERSIÓN 1.0 09-08-2020
 
 Video: https://youtu.be/7nvUz4-WM2k
+
+-------VERSIÓN 2.0 12-08-2020------
+
+-FIXED ANIMATION AND TIME 
+
+Thanks to Poke.
