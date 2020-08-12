@@ -12,6 +12,6 @@ client_scripts {
     'dado.lua'
 }
 
-client_scripts {
+server_scripts {
     'drp_server.lua'
 }
